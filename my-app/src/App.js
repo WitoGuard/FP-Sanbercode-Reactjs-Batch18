@@ -4,9 +4,12 @@ import './App.css';
 import Main from './layout/main';
 import "antd/dist/antd.css"
 
+
 function App() {
   return (
+    <div>
     <Main />
+    </div>
   );
 }
 
